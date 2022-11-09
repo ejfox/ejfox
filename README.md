@@ -12,7 +12,3 @@ Hi there! I'm EJ Fox, a freelance journalist and data visualization expert. I lo
 
 #### Website
 My website <https://ejfox.com> is a Nuxt app open-sourced at [ejfox/website](https://github.com/ejfox/website) and I use GitHub for version management as well as a CMS with changes auto-deployed with Netlify.
-
----
-
-![GitHub metrics](https://metrics.lecoq.io/ejfox)  
